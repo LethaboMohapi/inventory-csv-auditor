@@ -1,0 +1,4 @@
+sku,name,quantity,unitPrice,reorderLevel
+RICE01,Rice 2kg,12,34.99,5
+SOAP01,Hand soap,3,12.50,5
+TEA01,Tea bags,0,29.90,2
