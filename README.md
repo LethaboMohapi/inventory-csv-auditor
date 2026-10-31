@@ -30,4 +30,4 @@ Exit codes: **0** clean report, **1** row validation errors, **2** file/usage/he
 - Add category summaries and a documented output schema.
 - Add a CI workflow that runs `npm test` on pull requests.
 
-Contributions should describe a real improvement, include reproduction steps, and add relevant tests. Use fictional data in examples. Built as an AI-assisted learning demo, not a production inventory system.
+Contributions should describe a real improvement, include reproduction steps, and add relevant tests. Use fictional data in examples. This is a learning demo, not a production inventory system.
